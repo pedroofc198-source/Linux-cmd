@@ -1,2 +1,1 @@
-# Linux-cmd
-Comandos para instalar e usar ferramentas em terminal
+Criando um repositorio com detalhes de instalacao de programas no linux
